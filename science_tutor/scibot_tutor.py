@@ -701,6 +701,6 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #666; padding: 20px;">
     <p>🤖 <strong>SciBot</strong> - Your Friendly AI Science Tutor</p>
-    <p style="font-size: 0.9em;">Created for 6th Grade Science Fair • Powered by Claude AI</p>
+    <p style="font-size: 0.9em;">Created for 6th Grade Science Fair • Developed by Ahmed</p>
 </div>
 """, unsafe_allow_html=True)
